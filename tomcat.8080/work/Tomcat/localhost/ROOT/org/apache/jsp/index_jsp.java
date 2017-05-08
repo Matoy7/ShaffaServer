@@ -27,9 +27,9 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
 
   static {
     _jspx_imports_packages = new java.util.HashSet<>();
-    _jspx_imports_packages.add("javax.servlet");
-    _jspx_imports_packages.add("javax.servlet.http");
-    _jspx_imports_packages.add("javax.servlet.jsp");
+    _jspx_imports_packages.add("javax.main.java.servlet");
+    _jspx_imports_packages.add("javax.main.java.servlet.http");
+    _jspx_imports_packages.add("javax.main.java.servlet.jsp");
     _jspx_imports_classes = null;
   }
 
